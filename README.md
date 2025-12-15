@@ -10,7 +10,7 @@
 pip install -r requirements.txt
 
 ## Запуск
-python3 main.py <IP> <PORT>
+python3 main.py *IP* *PORT*
 
 ## Поддерживаемые устройства
 - D-Link
